@@ -1,0 +1,18 @@
+* {
+  font-family: Helvetica;
+}
+
+:root {
+  --purple: #7f00ff;
+  --pink: #e100ff;
+  --primary: #23a6d5;
+  --primary-dark: #ffffff;
+}
+
+.primary {
+    color: var(--primary);
+}
+
+.primary-dark {
+    color: var(--primary-dark);
+}

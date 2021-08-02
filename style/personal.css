@@ -1,0 +1,22 @@
+.contact-col {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: flex-start;
+  padding-right: 1%;
+}
+
+.main-col {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow: clip;
+}
+
+.info-col {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    align-items: flex-end;
+    overflow: clip;
+}
